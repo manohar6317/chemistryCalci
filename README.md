@@ -36,6 +36,47 @@ A dedicated parsing engine that understands chemical syntax. Type any formula (e
 
 ---
 
+## 🛠️ Getting Started
+
+### Prerequisites
+Ensure you have **Node.js** (v16 or higher) installed on your machine.
+
+### Installation
+
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/manohar6317/chemistryCalci.git
+    ```
+
+2.  **Navigate to the project directory**:
+    ```bash
+    cd chemicalc
+    ```
+
+3.  **Install Dependencies**:
+    This project relies on several key libraries. Run the following command to install them all:
+    ```bash
+    npm install
+    ```
+    
+    *Key dependencies installed:*
+    - `react`, `react-dom`
+    - `vite`
+    - `tailwindcss`, `postcss`, `autoprefixer`
+    - `lucide-react`
+    - `mathjs`
+
+### Running the Project
+
+Start the local development server:
+```bash
+npm run dev
+```
+
+Open your browser and visit the URL shown in the terminal (usually `http://localhost:5173`) to launch the dashboard.
+
+---
+
 <div align="center">
 
 **Developed by Manohar Daripalli using Google Antigravity Agents**
